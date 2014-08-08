@@ -17,13 +17,21 @@ Organização do dataframe
 ====
 - Numeração
 - Numeração cross-dataframe
-- 
+- Adicionando eventos temporários
 
 Metodologia para modificações
 ======
+- Utilização do AGS Training
+- Teste de triggering
+- Teste de parâmetros
+- Observação dos eventos
+- Feedback dos validadores
+- 
 
 Padrões de código
 =====
 - Cabeçalho inicial
-- 
-testando
+- Comentários
+- Formatação
+- Organização
+
